@@ -1,0 +1,181 @@
+request_id,received_date,completed_date,month_received,case_type,complexity,datasets_requested,completion_days,sla_target_days,sla_status,delay_reason,rework_required,quality_score
+DSAR-0001,2026-01-11,2026-02-06,2026-01,Account history,Low,5,26,30,Within SLA,None,No,94
+DSAR-0002,2026-01-23,2026-02-23,2026-01,Account history,Medium,12,31,30,Breached,Manual review,No,96.5
+DSAR-0003,2026-01-07,2026-02-07,2026-01,Transaction-specific,Medium,10,31,30,Breached,Clarification required,No,94.5
+DSAR-0004,2026-01-08,2026-01-29,2026-01,Third-party request,Low,3,21,30,Within SLA,None,No,94
+DSAR-0005,2026-01-13,2026-02-09,2026-01,Transaction-specific,Low,4,27,30,Within SLA,None,No,99
+DSAR-0006,2026-01-19,2026-02-19,2026-01,Standard access,Medium,9,31,30,Breached,Data retrieval,No,96.5
+DSAR-0007,2026-01-01,2026-02-12,2026-01,Transaction-specific,High,16,42,30,Breached,Clarification required,Yes,81.5
+DSAR-0008,2026-01-17,2026-02-18,2026-01,Account history,High,16,32,30,Breached,Manual review,No,94.5
+DSAR-0009,2026-01-23,2026-02-20,2026-01,Multi-product,Medium,7,28,30,Within SLA,None,No,95.5
+DSAR-0010,2026-01-15,2026-02-12,2026-01,Standard access,Medium,8,28,30,Within SLA,None,No,95.5
+DSAR-0011,2026-01-17,2026-02-11,2026-01,Third-party request,Low,4,25,30,Within SLA,None,No,97
+DSAR-0012,2026-01-10,2026-02-06,2026-01,Account history,Medium,12,27,30,Within SLA,None,No,91.5
+DSAR-0013,2026-01-03,2026-01-28,2026-01,Account history,Medium,8,25,30,Within SLA,None,No,94.5
+DSAR-0014,2026-01-19,2026-02-16,2026-01,Account history,Medium,6,28,30,Within SLA,None,No,92.5
+DSAR-0015,2026-01-17,2026-02-28,2026-01,Standard access,High,17,42,30,Breached,Quality rework,Yes,80.5
+DSAR-0016,2026-01-10,2026-02-09,2026-01,Account history,Medium,8,30,30,Within SLA,None,No,91.5
+DSAR-0017,2026-01-25,2026-02-19,2026-01,Standard access,Medium,10,25,30,Within SLA,None,No,94.5
+DSAR-0018,2026-01-05,2026-01-23,2026-01,Multi-product,Low,2,18,30,Within SLA,None,No,98
+DSAR-0019,2026-01-27,2026-02-17,2026-01,Standard access,Low,5,21,30,Within SLA,None,No,96
+DSAR-0020,2026-01-05,2026-02-02,2026-01,Transaction-specific,Medium,9,28,30,Within SLA,None,No,92.5
+DSAR-0021,2026-01-24,2026-03-02,2026-01,Third-party request,High,15,37,30,Breached,Data retrieval,No,91.5
+DSAR-0022,2026-01-21,2026-02-23,2026-01,Account history,High,22,33,30,Breached,Quality rework,No,91.5
+DSAR-0023,2026-01-12,2026-02-16,2026-01,Transaction-specific,Medium,11,35,30,Breached,Quality rework,No,95.5
+DSAR-0024,2026-01-06,2026-02-10,2026-01,Standard access,High,19,35,30,Breached,Third-party dependency,Yes,85.5
+DSAR-0025,2026-01-13,2026-02-10,2026-01,Account history,Medium,8,28,30,Within SLA,None,No,96.5
+DSAR-0026,2026-01-20,2026-02-17,2026-01,Transaction-specific,Medium,7,28,30,Within SLA,None,No,92.5
+DSAR-0027,2026-01-20,2026-02-24,2026-01,Transaction-specific,High,15,35,30,Breached,Manual review,No,90.5
+DSAR-0028,2026-01-05,2026-01-27,2026-01,Account history,Low,4,22,30,Within SLA,None,No,96
+DSAR-0029,2026-01-14,2026-02-09,2026-01,Standard access,Low,5,26,30,Within SLA,None,No,96
+DSAR-0030,2026-01-14,2026-02-15,2026-01,Multi-product,Medium,10,32,30,Breached,Quality rework,Yes,83.5
+DSAR-0031,2026-02-11,2026-03-12,2026-02,Third-party request,Medium,10,29,30,Within SLA,None,Yes,88.5
+DSAR-0032,2026-02-13,2026-03-12,2026-02,Third-party request,Medium,8,27,30,Within SLA,None,No,96.5
+DSAR-0033,2026-02-02,2026-02-28,2026-02,Third-party request,Medium,11,26,30,Within SLA,None,No,97.5
+DSAR-0034,2026-02-14,2026-03-15,2026-02,Multi-product,High,22,29,30,Within SLA,None,No,94.5
+DSAR-0035,2026-02-20,2026-03-14,2026-02,Standard access,Low,2,22,30,Within SLA,None,No,94
+DSAR-0036,2026-02-19,2026-03-10,2026-02,Multi-product,Low,3,19,30,Within SLA,None,No,95
+DSAR-0037,2026-02-12,2026-03-11,2026-02,Standard access,Medium,8,27,30,Within SLA,None,No,93.5
+DSAR-0038,2026-02-27,2026-04-02,2026-02,Multi-product,High,13,34,30,Breached,Manual review,No,92.5
+DSAR-0039,2026-02-23,2026-04-10,2026-02,Transaction-specific,High,15,46,30,Breached,Quality rework,Yes,84.5
+DSAR-0040,2026-02-12,2026-03-06,2026-02,Account history,Low,3,22,30,Within SLA,None,No,99
+DSAR-0041,2026-02-05,2026-02-20,2026-02,Multi-product,Low,2,15,30,Within SLA,None,No,96
+DSAR-0042,2026-02-14,2026-03-13,2026-02,Transaction-specific,Medium,8,27,30,Within SLA,None,No,95.5
+DSAR-0043,2026-02-26,2026-04-10,2026-02,Third-party request,High,23,43,30,Breached,Third-party dependency,No,93.5
+DSAR-0044,2026-02-02,2026-02-26,2026-02,Third-party request,Medium,12,24,30,Within SLA,None,No,94.5
+DSAR-0045,2026-02-06,2026-02-26,2026-02,Multi-product,Medium,8,20,30,Within SLA,None,No,96.5
+DSAR-0046,2026-02-07,2026-02-23,2026-02,Standard access,Low,5,16,30,Within SLA,None,No,97
+DSAR-0047,2026-02-04,2026-03-06,2026-02,Standard access,Medium,10,30,30,Within SLA,None,No,94.5
+DSAR-0048,2026-02-07,2026-03-07,2026-02,Third-party request,Low,3,28,30,Within SLA,None,No,100
+DSAR-0049,2026-02-02,2026-02-24,2026-02,Multi-product,Low,5,22,30,Within SLA,None,No,99
+DSAR-0050,2026-02-25,2026-03-30,2026-02,Standard access,High,15,33,30,Breached,Quality rework,No,90.5
+DSAR-0051,2026-02-21,2026-03-17,2026-02,Third-party request,Low,3,24,30,Within SLA,None,No,96
+DSAR-0052,2026-02-11,2026-02-26,2026-02,Transaction-specific,Low,5,15,30,Within SLA,None,No,94
+DSAR-0053,2026-02-18,2026-03-12,2026-02,Standard access,Low,2,22,30,Within SLA,None,No,98
+DSAR-0054,2026-02-27,2026-04-06,2026-02,Standard access,High,22,38,30,Breached,Clarification required,Yes,84.5
+DSAR-0055,2026-02-05,2026-02-23,2026-02,Account history,Low,5,18,30,Within SLA,None,No,97
+DSAR-0056,2026-02-08,2026-03-04,2026-02,Account history,Medium,9,24,30,Within SLA,None,No,91.5
+DSAR-0057,2026-02-06,2026-02-22,2026-02,Multi-product,Low,3,16,30,Within SLA,None,No,98
+DSAR-0058,2026-02-05,2026-03-02,2026-02,Transaction-specific,Low,5,25,30,Within SLA,None,No,98
+DSAR-0059,2026-02-13,2026-03-09,2026-02,Account history,Medium,10,24,30,Within SLA,None,No,96.5
+DSAR-0060,2026-02-04,2026-03-15,2026-02,Transaction-specific,Medium,10,39,30,Breached,Manual review,No,95.5
+DSAR-0061,2026-03-17,2026-04-02,2026-03,Multi-product,Low,2,16,30,Within SLA,None,No,96
+DSAR-0062,2026-03-21,2026-04-10,2026-03,Multi-product,Medium,6,20,30,Within SLA,None,No,94.5
+DSAR-0063,2026-03-07,2026-03-20,2026-03,Standard access,Low,4,13,30,Within SLA,None,No,94
+DSAR-0064,2026-03-02,2026-03-22,2026-03,Transaction-specific,Medium,9,20,30,Within SLA,None,No,91.5
+DSAR-0065,2026-03-23,2026-04-20,2026-03,Account history,High,15,28,30,Within SLA,None,No,92.5
+DSAR-0066,2026-03-24,2026-04-19,2026-03,Standard access,Medium,7,26,30,Within SLA,None,No,91.5
+DSAR-0067,2026-03-22,2026-04-15,2026-03,Transaction-specific,Medium,9,24,30,Within SLA,None,No,97.5
+DSAR-0068,2026-03-07,2026-04-01,2026-03,Standard access,Medium,8,25,30,Within SLA,None,No,95.5
+DSAR-0069,2026-03-07,2026-04-04,2026-03,Account history,Medium,11,28,30,Within SLA,None,No,92.5
+DSAR-0070,2026-03-19,2026-04-11,2026-03,Multi-product,Medium,11,23,30,Within SLA,None,No,93.5
+DSAR-0071,2026-03-09,2026-03-28,2026-03,Account history,Low,3,19,30,Within SLA,None,No,99
+DSAR-0072,2026-03-24,2026-04-12,2026-03,Account history,Medium,7,19,30,Within SLA,None,No,95.5
+DSAR-0073,2026-03-10,2026-04-16,2026-03,Account history,High,18,37,30,Breached,Quality rework,Yes,85.5
+DSAR-0074,2026-03-25,2026-04-20,2026-03,Third-party request,Medium,9,26,30,Within SLA,None,No,97.5
+DSAR-0075,2026-03-19,2026-04-13,2026-03,Standard access,Medium,8,25,30,Within SLA,None,No,96.5
+DSAR-0076,2026-03-12,2026-04-05,2026-03,Third-party request,Medium,12,24,30,Within SLA,None,No,92.5
+DSAR-0077,2026-03-04,2026-04-02,2026-03,Standard access,Low,5,29,30,Within SLA,None,No,94
+DSAR-0078,2026-03-26,2026-04-11,2026-03,Third-party request,Low,5,16,30,Within SLA,None,No,94
+DSAR-0079,2026-03-05,2026-04-07,2026-03,Third-party request,Medium,7,33,30,Breached,Quality rework,Yes,84.5
+DSAR-0080,2026-03-27,2026-04-25,2026-03,Third-party request,Medium,10,29,30,Within SLA,None,No,97.5
+DSAR-0081,2026-03-10,2026-03-28,2026-03,Multi-product,Low,5,18,30,Within SLA,None,No,99
+DSAR-0082,2026-03-03,2026-03-21,2026-03,Multi-product,Medium,9,18,30,Within SLA,None,No,94.5
+DSAR-0083,2026-03-13,2026-04-04,2026-03,Standard access,Low,4,22,30,Within SLA,None,No,96
+DSAR-0084,2026-03-10,2026-04-07,2026-03,Third-party request,Medium,8,28,30,Within SLA,None,No,92.5
+DSAR-0085,2026-03-15,2026-04-11,2026-03,Account history,High,19,27,30,Within SLA,None,No,92.5
+DSAR-0086,2026-03-25,2026-04-22,2026-03,Third-party request,Medium,6,28,30,Within SLA,None,No,94.5
+DSAR-0087,2026-03-24,2026-04-20,2026-03,Multi-product,High,13,27,30,Within SLA,None,No,89.5
+DSAR-0088,2026-03-20,2026-04-18,2026-03,Third-party request,Medium,6,29,30,Within SLA,None,No,96.5
+DSAR-0089,2026-03-05,2026-03-21,2026-03,Transaction-specific,Low,5,16,30,Within SLA,None,No,100
+DSAR-0090,2026-03-21,2026-04-12,2026-03,Third-party request,Medium,7,22,30,Within SLA,None,No,97.5
+DSAR-0091,2026-04-07,2026-05-01,2026-04,Transaction-specific,Medium,12,24,30,Within SLA,None,Yes,88.5
+DSAR-0092,2026-04-02,2026-04-22,2026-04,Multi-product,Medium,9,20,30,Within SLA,None,No,95.5
+DSAR-0093,2026-04-06,2026-04-24,2026-04,Transaction-specific,Low,5,18,30,Within SLA,None,No,99
+DSAR-0094,2026-04-25,2026-05-31,2026-04,Transaction-specific,Medium,12,36,30,Breached,Clarification required,No,94.5
+DSAR-0095,2026-04-01,2026-04-30,2026-04,Third-party request,Medium,8,29,30,Within SLA,None,No,94.5
+DSAR-0096,2026-04-27,2026-05-19,2026-04,Standard access,Medium,11,22,30,Within SLA,None,No,94.5
+DSAR-0097,2026-04-03,2026-04-24,2026-04,Standard access,Medium,6,21,30,Within SLA,None,No,94.5
+DSAR-0098,2026-04-27,2026-05-17,2026-04,Transaction-specific,Low,5,20,30,Within SLA,None,No,98
+DSAR-0099,2026-04-12,2026-05-14,2026-04,Account history,High,21,32,30,Breached,Data retrieval,No,88.5
+DSAR-0100,2026-04-06,2026-04-26,2026-04,Multi-product,Medium,8,20,30,Within SLA,None,No,97.5
+DSAR-0101,2026-04-03,2026-04-23,2026-04,Standard access,Low,2,20,30,Within SLA,None,No,99
+DSAR-0102,2026-04-11,2026-05-18,2026-04,Account history,High,24,37,30,Breached,Quality rework,Yes,82.5
+DSAR-0103,2026-04-17,2026-05-09,2026-04,Third-party request,Low,2,22,30,Within SLA,None,No,98
+DSAR-0104,2026-04-21,2026-05-09,2026-04,Standard access,Medium,12,18,30,Within SLA,None,No,92.5
+DSAR-0105,2026-04-05,2026-05-02,2026-04,Standard access,Low,2,27,30,Within SLA,None,Yes,88
+DSAR-0106,2026-04-12,2026-05-01,2026-04,Third-party request,Low,3,19,30,Within SLA,None,No,94
+DSAR-0107,2026-04-01,2026-04-17,2026-04,Transaction-specific,Medium,11,16,30,Within SLA,None,No,93.5
+DSAR-0108,2026-04-01,2026-04-21,2026-04,Multi-product,Low,4,20,30,Within SLA,None,No,98
+DSAR-0109,2026-04-14,2026-05-04,2026-04,Standard access,Low,2,20,30,Within SLA,None,No,98
+DSAR-0110,2026-04-05,2026-04-28,2026-04,Account history,Low,4,23,30,Within SLA,None,Yes,91
+DSAR-0111,2026-04-07,2026-04-26,2026-04,Account history,Medium,7,19,30,Within SLA,None,No,94.5
+DSAR-0112,2026-04-17,2026-05-16,2026-04,Transaction-specific,Medium,11,29,30,Within SLA,None,No,94.5
+DSAR-0113,2026-04-21,2026-05-13,2026-04,Transaction-specific,High,15,22,30,Within SLA,None,No,93.5
+DSAR-0114,2026-04-13,2026-04-28,2026-04,Account history,Low,4,15,30,Within SLA,None,No,98
+DSAR-0115,2026-04-11,2026-05-02,2026-04,Third-party request,Low,4,21,30,Within SLA,None,No,99
+DSAR-0116,2026-04-10,2026-04-21,2026-04,Transaction-specific,Low,4,11,30,Within SLA,None,No,99
+DSAR-0117,2026-04-23,2026-05-15,2026-04,Account history,Low,4,22,30,Within SLA,None,Yes,92
+DSAR-0118,2026-04-19,2026-05-13,2026-04,Multi-product,Medium,8,24,30,Within SLA,None,No,93.5
+DSAR-0119,2026-04-08,2026-04-29,2026-04,Third-party request,Low,4,21,30,Within SLA,None,No,95
+DSAR-0120,2026-04-21,2026-05-13,2026-04,Transaction-specific,Low,5,22,30,Within SLA,None,No,100
+DSAR-0121,2026-05-19,2026-06-05,2026-05,Transaction-specific,Medium,7,17,30,Within SLA,None,No,96.5
+DSAR-0122,2026-05-09,2026-06-01,2026-05,Multi-product,Low,5,23,30,Within SLA,None,Yes,91
+DSAR-0123,2026-05-21,2026-06-14,2026-05,Third-party request,Medium,11,24,30,Within SLA,None,No,91.5
+DSAR-0124,2026-05-02,2026-05-23,2026-05,Account history,High,13,21,30,Within SLA,None,No,88.5
+DSAR-0125,2026-05-07,2026-06-08,2026-05,Third-party request,High,15,32,30,Breached,Manual review,No,92.5
+DSAR-0126,2026-05-07,2026-05-19,2026-05,Standard access,Low,3,12,30,Within SLA,None,No,94
+DSAR-0127,2026-05-01,2026-05-24,2026-05,Account history,High,19,23,30,Within SLA,None,No,91.5
+DSAR-0128,2026-05-01,2026-05-24,2026-05,Account history,High,22,23,30,Within SLA,None,No,93.5
+DSAR-0129,2026-05-25,2026-06-15,2026-05,Third-party request,Low,2,21,30,Within SLA,None,No,94
+DSAR-0130,2026-05-12,2026-06-09,2026-05,Standard access,Medium,12,28,30,Within SLA,None,Yes,85.5
+DSAR-0131,2026-05-10,2026-05-29,2026-05,Transaction-specific,Medium,7,19,30,Within SLA,None,No,95.5
+DSAR-0132,2026-05-09,2026-05-18,2026-05,Account history,Low,3,9,30,Within SLA,None,No,94
+DSAR-0133,2026-05-21,2026-06-13,2026-05,Account history,Medium,10,23,30,Within SLA,None,No,97.5
+DSAR-0134,2026-05-08,2026-06-04,2026-05,Account history,High,14,27,30,Within SLA,None,No,91.5
+DSAR-0135,2026-05-11,2026-05-23,2026-05,Third-party request,Low,4,12,30,Within SLA,None,No,95
+DSAR-0136,2026-05-01,2026-05-13,2026-05,Transaction-specific,Low,2,12,30,Within SLA,None,No,96
+DSAR-0137,2026-05-13,2026-06-01,2026-05,Transaction-specific,Medium,7,19,30,Within SLA,None,No,97.5
+DSAR-0138,2026-05-10,2026-05-25,2026-05,Standard access,Low,5,15,30,Within SLA,None,No,94
+DSAR-0139,2026-05-23,2026-06-21,2026-05,Multi-product,Medium,11,29,30,Within SLA,None,Yes,89.5
+DSAR-0140,2026-05-14,2026-06-14,2026-05,Third-party request,High,14,31,30,Breached,Clarification required,No,89.5
+DSAR-0141,2026-05-23,2026-06-25,2026-05,Transaction-specific,High,13,33,30,Breached,Clarification required,No,88.5
+DSAR-0142,2026-05-06,2026-06-02,2026-05,Account history,High,24,27,30,Within SLA,None,No,89.5
+DSAR-0143,2026-05-13,2026-05-24,2026-05,Account history,Low,5,11,30,Within SLA,None,No,94
+DSAR-0144,2026-05-07,2026-05-21,2026-05,Third-party request,Low,5,14,30,Within SLA,None,No,100
+DSAR-0145,2026-05-27,2026-06-16,2026-05,Account history,High,24,20,30,Within SLA,None,No,91.5
+DSAR-0146,2026-05-03,2026-05-25,2026-05,Third-party request,Medium,11,22,30,Within SLA,None,No,95.5
+DSAR-0147,2026-05-26,2026-06-10,2026-05,Account history,Low,2,15,30,Within SLA,None,No,100
+DSAR-0148,2026-05-24,2026-06-12,2026-05,Account history,Low,4,19,30,Within SLA,None,No,98
+DSAR-0149,2026-05-01,2026-05-15,2026-05,Third-party request,Low,4,14,30,Within SLA,None,No,100
+DSAR-0150,2026-05-15,2026-05-30,2026-05,Account history,Medium,7,15,30,Within SLA,None,No,92.5
+DSAR-0151,2026-06-09,2026-06-23,2026-06,Third-party request,Low,3,14,30,Within SLA,None,No,96
+DSAR-0152,2026-06-11,2026-06-30,2026-06,Third-party request,Medium,11,19,30,Within SLA,None,No,95.5
+DSAR-0153,2026-06-22,2026-07-10,2026-06,Third-party request,Low,4,18,30,Within SLA,None,No,95
+DSAR-0154,2026-06-03,2026-06-25,2026-06,Multi-product,Medium,12,22,30,Within SLA,None,No,96.5
+DSAR-0155,2026-06-09,2026-06-29,2026-06,Multi-product,Medium,9,20,30,Within SLA,None,No,91.5
+DSAR-0156,2026-06-19,2026-07-14,2026-06,Account history,High,23,25,30,Within SLA,None,Yes,84.5
+DSAR-0157,2026-06-06,2026-06-24,2026-06,Account history,Medium,8,18,30,Within SLA,None,No,96.5
+DSAR-0158,2026-06-14,2026-07-07,2026-06,Standard access,High,22,23,30,Within SLA,None,No,93.5
+DSAR-0159,2026-06-03,2026-06-20,2026-06,Transaction-specific,Low,2,17,30,Within SLA,None,No,98
+DSAR-0160,2026-06-11,2026-06-19,2026-06,Account history,Low,2,8,30,Within SLA,None,No,95
+DSAR-0161,2026-06-01,2026-07-02,2026-06,Account history,High,24,31,30,Breached,Manual review,Yes,85.5
+DSAR-0162,2026-06-21,2026-07-19,2026-06,Account history,High,22,28,30,Within SLA,None,Yes,85.5
+DSAR-0163,2026-06-18,2026-07-05,2026-06,Multi-product,Low,3,17,30,Within SLA,None,No,96
+DSAR-0164,2026-06-21,2026-07-03,2026-06,Multi-product,Medium,9,12,30,Within SLA,None,No,95.5
+DSAR-0165,2026-06-26,2026-07-10,2026-06,Transaction-specific,Low,4,14,30,Within SLA,None,No,95
+DSAR-0166,2026-06-12,2026-06-29,2026-06,Third-party request,Medium,7,17,30,Within SLA,None,No,94.5
+DSAR-0167,2026-06-21,2026-07-06,2026-06,Multi-product,Low,3,15,30,Within SLA,None,No,95
+DSAR-0168,2026-06-25,2026-07-23,2026-06,Multi-product,High,15,28,30,Within SLA,None,No,88.5
+DSAR-0169,2026-06-13,2026-07-09,2026-06,Account history,High,20,26,30,Within SLA,None,No,92.5
+DSAR-0170,2026-06-17,2026-07-25,2026-06,Third-party request,High,18,38,30,Breached,Manual review,No,92.5
+DSAR-0171,2026-06-07,2026-06-21,2026-06,Multi-product,Low,5,14,30,Within SLA,None,No,99
+DSAR-0172,2026-06-15,2026-07-01,2026-06,Third-party request,Medium,11,16,30,Within SLA,None,No,94.5
+DSAR-0173,2026-06-11,2026-07-04,2026-06,Multi-product,High,18,23,30,Within SLA,None,No,90.5
+DSAR-0174,2026-06-02,2026-06-13,2026-06,Third-party request,Low,3,11,30,Within SLA,None,No,95
+DSAR-0175,2026-06-20,2026-07-17,2026-06,Standard access,High,17,27,30,Within SLA,None,No,91.5
+DSAR-0176,2026-06-02,2026-06-24,2026-06,Transaction-specific,Low,4,22,30,Within SLA,None,No,100
+DSAR-0177,2026-06-26,2026-07-12,2026-06,Multi-product,Low,2,16,30,Within SLA,None,No,97
+DSAR-0178,2026-06-14,2026-06-22,2026-06,Account history,Low,5,8,30,Within SLA,None,No,98
+DSAR-0179,2026-06-26,2026-07-16,2026-06,Multi-product,Medium,11,20,30,Within SLA,None,No,91.5
+DSAR-0180,2026-06-25,2026-07-06,2026-06,Account history,Low,2,11,30,Within SLA,None,No,99
